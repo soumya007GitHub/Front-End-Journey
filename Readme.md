@@ -1,3 +1,10 @@
+# Day 1 - Sample Code to execute a simple logical game using Javascript
+
+# Day 2 - History of Javascript
+
+# Day 3 - Introduction
+
+
 # Features of React.js
  1. Easy DOM auto manipulation based triggered based on certain changes.
  2. Clean Single Page Application Building using no-reload feature.
