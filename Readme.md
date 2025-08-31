@@ -3,6 +3,10 @@
 # Day 2 - History of Javascript
 
 # Day 3 - Introduction
+Usage of defer keyword.
+
+# Day 4 - DataTypes in Javascript
+All Datatypes, bug of null keyword.
 
 
 # Features of React.js
