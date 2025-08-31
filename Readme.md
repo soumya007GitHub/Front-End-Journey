@@ -13,3 +13,4 @@
 # Difference between JavaScript & ReactJS
     1. Javascript - Imperative in nature, means we need to specify which DOM elements needs to be updated
     2. React.js - Declarative in nature, we will declare once and the values will auto update without manual DOM targetting.
+    3.
