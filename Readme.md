@@ -11,6 +11,9 @@ All Datatypes, bug of null keyword.
 # Day 5 - Variables
 let, const, var, Differences and Hoisting.
 
+# Day 6 - Code Execution Theory
+Memory Creation phase, Code Execution Phase.Usage of debugger keyword.
+
 
 # Features of React.js
  1. Easy DOM auto manipulation based triggered based on certain changes.
