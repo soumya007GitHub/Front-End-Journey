@@ -1,19 +1,21 @@
-# Day 1 - Sample Code to execute a simple logical game using Javascript
+# 001 - Sample Code to execute a simple logical game using Javascript
 
-# Day 2 - History of Javascript
+# 002 - History of Javascript
 
-# Day 3 - Introduction
+# 003 - Introduction
 Usage of defer keyword.
 
-# Day 4 - DataTypes in Javascript
+# 004 - DataTypes in Javascript
 All Datatypes, bug of null keyword.
 
-# Day 5 - Variables
+# 005 - Variables
 let, const, var, Differences and Hoisting.
 
-# Day 6 - Code Execution Theory
+# 006 - Code Execution Theory
 Memory Creation phase, Code Execution Phase.Usage of debugger keyword.
 
+# 007 - Dialog Boxes
+alert, prompt, confirm
 
 # Features of React.js
  1. Easy DOM auto manipulation based triggered based on certain changes.
