@@ -17,6 +17,12 @@ Memory Creation phase, Code Execution Phase.Usage of debugger keyword.
 # 007 - Dialog Boxes
 alert, prompt, confirm
 
+# 008 - Object Seal and Freeze functions
+Object.seal(), Object.freeze()
+
+# 009 - Shallow Copy and Deep Copy
+{...Obj} - Shallow Copy, JSON.parse(JSON.stringify(obj)) - Deep Copy
+
 # Features of React.js
  1. Easy DOM auto manipulation based triggered based on certain changes.
  2. Clean Single Page Application Building using no-reload feature.
