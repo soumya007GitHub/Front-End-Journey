@@ -8,6 +8,9 @@ Usage of defer keyword.
 # Day 4 - DataTypes in Javascript
 All Datatypes, bug of null keyword.
 
+# Day 5 - Variables
+let, const, var, Differences and Hoisting.
+
 
 # Features of React.js
  1. Easy DOM auto manipulation based triggered based on certain changes.
